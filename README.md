@@ -1,4 +1,4 @@
-# **PM2_Assignment-1**
+# **PM1_Project-1**
 
 ## Mock Banking System
 
