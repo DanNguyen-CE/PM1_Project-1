@@ -15,6 +15,8 @@ accounts. As a banker, one could create new accounts, deposit to an account, wit
 money from one account to another, delete accounts, sort the accounts, or do inspection on one or all bank 
 accounts.
 
+See instruction PDFs for more details.
+
 Rutgers University NB
 2017
 ```
